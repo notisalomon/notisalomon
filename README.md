@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notisalomon
-- 👀 I’m interested in python, languages, acquire new skills and fli.
+- 👀 I’m interested in angular, docker and aws and am looking forward acquire new skills.
 - 🌱 I’m currently learning javascript and angular.
 - 💞️ I’m looking to collaborate on applications.
 - 📫 How to reach me sulejmani.labinot@gmail.com
