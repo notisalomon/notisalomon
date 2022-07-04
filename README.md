@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Labi
 - 👀 I’m interested in angular, docker, jenkins and aws.
-- 🌱 I’m currently learning javascript and angular.
+- 🌱 I’m currently working on a feature flag solution.
 - 💞️ I’m looking to collaborate on applications.
 - 📫 How to reach me sulejmani.labinot@gmail.com
 
