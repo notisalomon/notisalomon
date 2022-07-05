@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Labi, an intern DevOps Engineer.
-- 👀 I’m interested in angular, docker, jenkins and aws.
+- 👀 I’m interested in Java, Angular, Docker and AWS.
 - 🌱 I’m currently working on a feature flag solution.
 - 💞️ I’m looking to collaborate on applications.
 - 📫 How to reach me sulejmani.labinot@gmail.com
