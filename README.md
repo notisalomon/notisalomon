@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Labi
+- 👋 Hi, I’m Labi, an intern DevOps Engineer.
 - 👀 I’m interested in angular, docker, jenkins and aws.
 - 🌱 I’m currently working on a feature flag solution.
 - 💞️ I’m looking to collaborate on applications.
