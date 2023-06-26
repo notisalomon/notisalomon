@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Labi, an intern DevOps Engineer.
+- 👋 Hi, I’m Labi, a DevOps Engineer.
 - 👀 I’m interested in Java, Angular, Docker and AWS.
-- 🌱 I’m currently working on a feature flag solution.
+- 🌱 I’m currently working on topics like network, cloud, servers, nginx, firewalls and proxies.
 - 💞️ I’m looking to collaborate on applications.
 - 📫 How to reach me sulejmani.labinot@gmail.com
 
