@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Labi, a DevOps Engineer.
 - 👀 I’m interested in Python, Angular, Docker and Cloud.
-- 🌱 I’m currently working on following topics: Networks, Cloud, Servers, Ansible and Authentication.
+- 🌱 I’m currently working on following topics: n8n, Networks, Cloud, Servers, Ansible and Authentication.
 - 💞️ I’m looking to collaborate on new applications.
 - 📫 How to reach out to me: sulejmani.labinot@gmail.com
 
